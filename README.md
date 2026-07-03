@@ -24,5 +24,14 @@ git clone https://github.com/FrancoArenasM/OpenFLRC_Library.git
 - Sub-millisecond interrupt-driven state machine
 - Hardware Power Amplifier (PA) / Low Noise Amplifier (LNA) host toggling (TX_EN/RX_EN)
 
-## License
-Released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+## License and Certification
+
+This project is certified as Open Source Hardware by the Open Source Hardware Association (OSHWA).
+
+[![OSHWA Certification Logo](https://oshwacompliant.org/assets/images/header-logo.png)](https://certification.oshwa.org/)
+
+### Open Source Licenses Facts
+
+All files, hardware designs, software libraries, and documentation are released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+![Open Source Licenses Facts](open_source_licenses.svg)
