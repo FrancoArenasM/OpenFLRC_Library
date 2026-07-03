@@ -1,0 +1,23 @@
+{
+  "name": "OpenFLRC",
+  "version": "1.0.0",
+  "description": "Hardware abstraction and low-level driver for the OpenFLRC v1.0 SX1280 transceiver board.",
+  "keywords": ["radio", "sx1280", "flrc", "lora", "telemetry"],
+  "authors": [
+    {
+      "name": "OpenFLRC Project"
+    }
+  ],
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32"],
+  "dependencies": [
+    {
+      "name": "jgromes/RadioLib",
+      "version": "^6.0.0"
+    },
+    {
+      "name": "adafruit/Adafruit NeoPixel",
+      "version": "^1.12.0"
+    }
+  ]
+}
