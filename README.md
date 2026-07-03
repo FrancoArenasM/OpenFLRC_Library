@@ -28,7 +28,7 @@ git clone https://github.com/FrancoArenasM/OpenFLRC_Library.git
 
 This project is certified as Open Source Hardware by the Open Source Hardware Association (OSHWA).
 
-[![OSHWA Certification Logo](https://oshwacompliant.org/assets/images/header-logo.png)](https://certification.oshwa.org/)
+[![OSHWA Certification Logo](https://upload.wikimedia.org/wikipedia/commons/f/fa/Open-source-hardware-logo-registered.svg)](https://certification.oshwa.org/)
 
 ### Open Source Licenses Facts
 
